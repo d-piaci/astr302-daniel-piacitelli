@@ -1,2 +1,4 @@
 # My first ASTR 302 git repository
-hello
+A new message from a paralell universe. 
+
+From Connor
